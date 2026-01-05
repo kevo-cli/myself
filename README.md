@@ -1,1 +1,1 @@
-# Hi, I'm Kevin, and I love *learning*
+# Hi, I'm Kevin and I love *learning*
